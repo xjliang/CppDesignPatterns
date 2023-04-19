@@ -43,9 +43,9 @@
 
 ### 组件协作
 
-- :white_check_mark: Template Method（模板方法）
+- :white_check_mark: [Template Method（模板方法）](./Patterns/TemplateMethod)
 - :black_square_button: Observer / Event（观察者模式 / 事件模式）
-- :white_check_mark: Strategy（策略模式）
+- :white_check_mark: [Strategy（策略模式）](./Patterns/Strategy)
 
 ### 单一职责
 
@@ -61,7 +61,7 @@
 
 ### 对象性能
 
-- :white_check_mark: Singleton（单例模式）
+- :white_check_mark: [Singleton（单例模式）](./Patterns/Singleton)
 
 - :black_square_button: Flyweight（享元模式）
 
