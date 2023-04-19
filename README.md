@@ -43,53 +43,54 @@
 
 ### 组件协作
 
-- [x] Template Method（模板方法）
-- [ ] Observer / Event（观察者模式 / 事件模式）
-- [x] Strategy（策略模式）
+- :white_check_mark: Template Method（模板方法）
+- :black_square_button: Observer / Event（观察者模式 / 事件模式）
+- :white_check_mark: Strategy（策略模式）
 
 ### 单一职责
 
-- [ ] Decorator（装饰器模式）
-- [ ] Bridge（桥接模式）
+- :black_square_button: Decorator（装饰器模式）
+- :black_square_button: Bridge（桥接模式）
 
 ### 对象创建
 
-- [ ] Factory Method（工厂方法）
-- [ ] Abstract Factory（抽象工厂）
-- [ ] Prototype（原型模式）
-- [ ] Builder（创建者模式）
+- :black_square_button: Factory Method（工厂方法）
+- :black_square_button: Abstract Factory（抽象工厂）
+- :black_square_button: Prototype（原型模式）
+- :black_square_button: Builder（创建者模式）
 
 ### 对象性能
 
-- [x] Singleton（单例模式）
-- [ ] Flyweight（享元模式）
+- :white_check_mark: Singleton（单例模式）
+
+- :black_square_button: Flyweight（享元模式）
 
 ### 接口隔离
 
-- [ ] Facade（门面模式）
-- [ ] Proxy（代理模式）
-- [ ] Mediator（中介者模式）
-- [ ] Adapter（适配器模式）
+- :black_square_button: Facade（门面模式）
+- :black_square_button: Proxy（代理模式）
+- :black_square_button: Mediator（中介者模式）
+- :black_square_button: Adapter（适配器模式）
 
 ### 状态变化
 
-- [ ] Memento（备忘录模式）
-- [ ] State（状态模式）
+- :black_square_button: Memento（备忘录模式）
+- :black_square_button: State（状态模式）
 
 ### 数据结构
 
-- [ ] Composite（组合模式）
-- [ ] Iterator（迭代器模式）
-- [ ] Chain of Responsibility（责任链模式）
+- :black_square_button: Composite（组合模式）
+- :black_square_button: Iterator（迭代器模式）
+- :black_square_button: Chain of Responsibility（责任链模式）
 
 ### 行为变化
 
-- [ ] Command（命令模式）
-- [ ] Visitor（访问者模式）
+- :black_square_button: Command（命令模式）
+- :black_square_button: Visitor（访问者模式）
 
 ### 领域问题
 
-- [ ] Interpreter（编译器模式）
+- :black_square_button: Interpreter（编译器模式）
 
 ## 总结
 
