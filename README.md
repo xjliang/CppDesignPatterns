@@ -43,26 +43,25 @@
 
 ### 组件协作
 
-- [ ] Template Method
-- [ ] Observer / Event
-- [ ] Strategy
+- [x] Template Method（模板方法）
+- [ ] Observer / Event（观察者模式 / 事件模式）
+- [x] Strategy（策略模式）
 
 ### 单一职责
 
-- [ ] Decorator
-- [ ] Bridge
+- [ ] Decorator（装饰器模式）
+- [ ] Bridge（桥接模式）
 
 ### 对象创建
 
-- [ ] Factory Method
-- [ ] Bridge
-- [ ] Abstract Factory
-- [ ] Prototype
-- [ ] Builder
+- [ ] Factory Method（工厂方法）
+- [ ] Abstract Factory（抽象工厂）
+- [ ] Prototype（原型模式）
+- [ ] Builder（创建者模式）
 
 ### 对象性能
 
-- [ ] Singleton（单例模式）
+- [x] Singleton（单例模式）
 - [ ] Flyweight（享元模式）
 
 ### 接口隔离
