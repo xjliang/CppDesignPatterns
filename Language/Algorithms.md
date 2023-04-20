@@ -10,7 +10,7 @@
    ```cpp
    std::vector<int> nums {1, 2, 3, 4}; // 原数组
    std::vector<int> s (a.size() + 1); // 前缀和
-std::partial_sum(nums.begin(), nums.end(), s.begin() + 1);
+   std::partial_sum(nums.begin(), nums.end(), s.begin() + 1);
    ```
 
 3. 求和

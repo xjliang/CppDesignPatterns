@@ -47,9 +47,13 @@
 - :white_check_mark: [Observer / Event（观察者模式 / 事件模式）](./Patterns/Observer)
 - :white_check_mark: [Strategy（策略模式）](./Patterns/Strategy)
 
-### 单一职责
+### ”单一职责“模式
 
-- :black_square_button: Decorator（装饰器模式）
+在软件组件的设计中，如果责任划分的不清晰，使用继承得到的结果往往是随着需求的变化，子类急剧膨胀，同时充斥着重复代码，这时候关键的是划清责任。
+
+典型模式：
+
+- :white_check_mark: [Decorator（装饰器模式）](./Patterns/Decorator)
 - :black_square_button: Bridge（桥接模式）
 
 ### 对象创建
