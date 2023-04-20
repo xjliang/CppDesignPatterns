@@ -44,7 +44,7 @@
 ### 组件协作
 
 - :white_check_mark: [Template Method（模板方法）](./Patterns/TemplateMethod)
-- :black_square_button: Observer / Event（观察者模式 / 事件模式）
+- :white_check_mark: [Observer / Event（观察者模式 / 事件模式）](./Patterns/Observer)
 - :white_check_mark: [Strategy（策略模式）](./Patterns/Strategy)
 
 ### 单一职责
