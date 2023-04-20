@@ -10,6 +10,10 @@
 
 > 保证一个类仅有一个实例，并提供该实例的全局访问点。—— 《设计模式》GoF
 
+## 结构（structure）
+
+![image-20230420225157946](image-singleton.png)
+
 ## 要点总结
 
 - Singleton 模式中的实例构造函数可以设置为 protected 以允许子类派生。
