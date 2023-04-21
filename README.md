@@ -83,7 +83,7 @@
 ### 状态变化
 
 - :black_square_button: Memento（备忘录模式）
-- :black_square_button: State（状态模式）
+- :white_check_mark: [State（状态模式）](./Patterns/State)
 
 ### 数据结构
 
