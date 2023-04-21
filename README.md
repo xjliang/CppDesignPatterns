@@ -54,7 +54,7 @@
 典型模式：
 
 - :white_check_mark: [Decorator（装饰器模式）](./Patterns/Decorator)
-- :black_square_button: Bridge（桥接模式）
+-  :white_check_mark:[Bridge（桥接模式）](./Patterns/Bridge)
 
 ### 对象创建
 
