@@ -54,11 +54,15 @@
 典型模式：
 
 - :white_check_mark: [Decorator（装饰器模式）](./Patterns/Decorator)
--  :white_check_mark:[Bridge（桥接模式）](./Patterns/Bridge)
+-  :white_check_mark: [Bridge（桥接模式）](./Patterns/Bridge)
 
-### 对象创建
+### ”对象创建“ 模式
 
-- :black_square_button: Factory Method（工厂方法）
+通过”对象创建“ 模式绕开 new，来避免对象创建过程导致的紧耦合（依赖具体类），从而支持对象创建的稳定。它是接口抽象之后的第一步工作。
+
+典型模式：
+
+- :white_check_mark: [Factory Method（工厂方法）](./Patterns/FactoryMethod)
 - :black_square_button: Abstract Factory（抽象工厂）
 - :black_square_button: Prototype（原型模式）
 - :black_square_button: Builder（创建者模式）
