@@ -64,7 +64,7 @@
 
 - :white_check_mark: [Factory Method（工厂方法）](./Patterns/FactoryMethod)
 - :white_check_mark: [Abstract Factory（抽象工厂）](./Patterns/AbstractFactory)
-- :black_square_button: Prototype（原型模式）
+- :white_check_mark: [Prototype（原型模式）](./Patterns/Prototype)
 - :black_square_button: Builder（创建者模式）
 
 ### 对象性能
