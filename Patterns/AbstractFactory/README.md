@@ -11,7 +11,37 @@
 
 ## 结构（structure）
 
-![](picture-abstract-factory.png)
+```mermaid
+classDiagram
+    class AbstractFactory {
+        <<interface>>
+        +CreateProductA()
+        +CreateProductB()
+    }
+    AbstractFactory |>-- ConcreteFactory1 
+    AbstractFactory |>-- ConcreteFactory2
+
+    ConcreteFactory1 ..> ProductA1
+    ConcreteFactory1 ..> ProductB1
+
+    ConcreteFactory2 ..> ProductA2
+    ConcreteFactory2 ..> ProductB2
+
+    class AbstractProductA {
+    }
+    AbstractProductA |>-- ProductA1
+    AbstractProductA |>-- ProductA2 
+
+    class AbstractProductB {
+    }
+    AbstractProductB |>-- ProductB1 
+    AbstractProductB |>-- ProductB2
+
+    class Client
+    Client --> AbstractFactory
+    Client --> AbstractProductA
+    Client --> AbstractProductB
+```
 
 ## 要点总结
 
